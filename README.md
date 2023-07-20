@@ -13,6 +13,6 @@ Follow the steps below to get the project up and running on your local machine:
 Clone the repository to your local machine using the following command:
 
 - Open the project in your preferred Java IDE.
-- Compile and run the PasswordGeneratorApp.java file.
+- Compile and run the file.
 - The application will display a menu with options to customize the password generation process.
 - Select the desired password criteria and follow the prompts to generate and save the password.
